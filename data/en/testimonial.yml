@@ -1,0 +1,24 @@
+enable : true
+item    :
+  - quote       : >
+      Nuestra páginas webs la hicieron ellos y la verdad es que estamos muy contentos con el resultado que hemos obtenido. Con el posicionamiento logrado en los motores de búsqueda y el soporte
+    clientThumb : images/client-logo/clients-2.jpg
+    clientName  : Flavia Estefanía Dacheville
+    clientDesignation: Grupo Dehl
+
+  - quote       : >
+      Empresa muy seria y competitiva, todas las ideas que les aporte las supieron plasmar en el logotipo que estaba buscando para mi empresa. Así como hacerme desisteresadamente un diseño para el luminoso que posteriormente me hizo otra empresa. Totalmente recomendable.
+    clientThumb : images/client-logo/clients-3.jpg
+    clientName  : Rodolfo Jorge Funes
+    clientDesignation: Farmacia La Paz
+  - quote       : >
+      Nos han realizado la identidad de nuestra web institucional y hemos quedado muy contentos. Ha sido muy fácil trabajar con ellos, trato cercano y profesional. Recomendable.
+    clientThumb : images/client-logo/clients-1.jpg
+    clientName  : Myriam Escribano
+    clientDesignation: Supervisión Coordinadora Educación Física CABA
+
+  - quote       : >
+       EFICIENTES Y PROFESIONALES!! Trabajar con EqualDev ha sido genial. Nosotros contactamos con ellos para modificar nuestra página web y la verdad que nos han ayudado mucho. Se han adaptado a lo que nosotros buscábamos y todas las modificaciones las hacían muy rápido.
+    clientThumb : images/client-logo/clients-4.jpg
+    clientName  : Ariel
+    clientDesignation: Lamps INC

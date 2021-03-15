@@ -1,0 +1,26 @@
+enable    : true
+topTitle   : nosotros
+title     : ¿Quiénes somos?.
+subtitle  : Desarrollamos e implementamos soluciones con resultados reales sobre plataformas digitales permitiendo a las empresas explotar todo su potencial en la web.
+tabItem   :
+  - id        : philosophy
+    title     : Filosofía
+    heading   : Creamos diseño y tecnología
+    content   : >
+      En pocas palabras, somos creadores, diseñadores, ingenieros, educadores y solucionadores de problemas.
+      Creamos para usted y con usted. En EqualDev trabajamos conjuntamente con nuestros clientes generando en el proceso una sinergia enriquecedora.
+    image     : images/company/company-image.jpg
+
+  - id        : mission
+    title     : Misión
+    heading   : Nuestra misión
+    content   : >
+      Maximizar el potencial de nuestros clientes a través del uso de Internet. Somos impulsores de cambios que generen bien común. Con un espíritu inconformista abierto a una nueva realidad más humana y sostenible. Trabajamos en base a unos códigos éticos de honestidad y responsabilidad con las personas y el medioambiente.
+    image     : images/company/company-image-2.jpg
+
+  - id        : vision
+    title     : Visión
+    heading   : Nuestra visión
+    content   : >
+      Ser una de las mejores empresas de desarrollo web, reconocida por la innovación, simpleza y generación de valor de sus soluciones, con una alta productividad y calidad humana de su equipo. Trabajar desde una gestión horizontal, siendo la trasparencia, la auto-responsabilidad, la confianza y solidaridad los pilares que fundamentan esta empresa, queremos ser referentes en cuanto a la comunicación ética y responsable. 
+    image     : images/company/company-image-3.jpg

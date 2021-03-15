@@ -1,0 +1,24 @@
+[nosotros]
+other = "¿Quiénes somos?"
+[servicios]
+other = "Servicios"
+[portfolio]
+other = "Portfolio"
+[Blog]
+other = "Blog"
+[contacto]
+other = "Contacto"
+
+[graphicdesign]
+other = "Diseño web"
+[webdesign]
+other = "Marketing Digital"
+[webdevelopment]
+other = "Diseño de logos"
+
+[partners]
+other = "Servicios"
+[faqs]
+other = "Blog"
+[badges]
+other = "Contacto"

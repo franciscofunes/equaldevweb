@@ -1,0 +1,21 @@
+enable  : true
+topTitle: Experiencia
+title   : +5 Años de Diseño Web para toda Argentina
+subtitle: Diseño web responsive, optimizado para buscadores, foco en resultados
+member  :
+  - image         : images/team/member-1.jpg
+    name          : Diseño web Responsive
+    description   : >
+      Su página web funcionará y lucirá muy bien, no sólo en monitores de pc, sino también en dispositivos móviles como celulares y tablets. Esto ayudará a aumentar considerablemente la audiencia de la misma y por ende sus resultados.
+
+
+  - image         : images/team/member-2.jpg
+    name          : Optimizado para Buscadores
+    description   : >
+      Abordamos la programación de nuestros diseños de modo que luzcan bien tanto para las personas, como para los motores de búsqueda como Google. Esto contribuye sustancialmente a que su página obtenga mejores posiciones en los resultados de búsqueda.
+
+
+  - image         : images/team/member-3.jpg
+    name          : Foco en Resultados
+    description   : >
+      Obtener resultados comerciales a través de su web es el principal objetivo de una correcta estrategia online. Por ello, llevamos adelante nuestro proceso de diseño web haciendo especial foco en aspectos de marketing y experiencia de usuario.

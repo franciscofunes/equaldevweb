@@ -1,0 +1,22 @@
+enable    : true
+title     : Etapas del diseño web
+description: >
+  Hacemos un análisis general del proyecto, midiendo el alcance y los objetivos del mismo. Realizamos un diseño profesional, de alto impacto, atractivo y pregnante adaptado a las necesidades del cliente. Hacemos la codificación bajo los estándares y normas de la W3C. Se deja contemplada la necesidad de adquirir un servicio de marketing online.
+image     : images/about/about-1.jpg
+servicelist:
+  - name    : Investigación
+  - name    : Diseño UX/UI
+  - name    : Desarrollo
+  - name    : Optimización
+clientLogo:
+  - image   : images/client-logo/logo-1.png
+  - image   : images/client-logo/logo-2.png
+  - image   : images/client-logo/logo-3.png
+  - image   : images/client-logo/logo-4.png
+  - image   : images/client-logo/logo-5.png
+  - image   : images/client-logo/logo-6.png
+  - image   : images/client-logo/logo-7.png
+  - image   : images/client-logo/logo-8.png
+  - image   : images/client-logo/logo-9.png
+  - image   : images/client-logo/logo-10.png
+  - image   : images/client-logo/logo-11.png

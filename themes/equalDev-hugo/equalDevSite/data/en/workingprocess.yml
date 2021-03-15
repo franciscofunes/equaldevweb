@@ -1,0 +1,28 @@
+enable  : true
+topTitle: ¿Cómo Trabájamos?
+title   : Nuestro Proceso de trabajo
+subtitle:  Esta sistematización indica cómo se divide un proyecto en módulos más pequeños para normalizar cómo se administra el mismo.
+item    :
+  - number  : 1
+    icon    : tf-ion-ios-briefcase-outline
+    title   : Análisis del proyecto
+    description : >
+      recopilamos, examinamos y formulamos los requisitos del cliente y cualquier restricción que se pueda aplicar.
+
+  - number  : 2
+    icon    : tf-ion-ios-alarm-outline
+    title   : Estimación de tiempos
+    description : >
+      Se calculará una predicción de cuánto tiempo durará o costará el desarrollo y mantenimiento del proyecto.
+
+  - number  : 3
+    icon    : tf-ion-ios-email-outline
+    title   : Soporte técnico
+    description : >
+      Proporcionamos asistencia a los usuarios al tener algún problema al utilizar un producto o servicio brindado.
+
+  - number  : 4
+    icon    : tf-ion-ios-locked-outline
+    title   : Sistemas seguros
+    description : >
+      El proceso de prevenir y detectar el uso no autorizado de un sistema informático

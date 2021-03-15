@@ -1,0 +1,63 @@
+enable  : true
+topTitle: TRABAJOS RECIENTES
+title   : PORTFOLIO DE TRABAJOS.
+subtitle: Un muestrario de nuestros trabajos realizados para nuestros clientes
+
+filtermenu :
+  - name      : Animación
+    category  : photography
+
+  - name      : Aplicación web
+    category  : ios
+
+  - name      : Desarrollo web
+    category  : development
+
+  - name      : Diseño web
+    category  : design
+
+item   :
+  - title : Sitio web Local comercial "Farmacia La Paz"
+    url: https://www.farmacialapaz.com.ar
+    image : images/portfolio/portfolio-1.png
+    category  : design
+
+  - title : Sitio web Consultora "ERP Solutions"
+    url: https://freesolutionserp.web.app/
+    image : images/portfolio/portfolio-2.png
+    category  : design
+
+  - title : Sitio web autogestionable "Grupo Dehl"
+    url: https://www.grupodehl.com
+    image : images/portfolio/portfolio-3.png
+    category  : development
+
+  - title : Sitio web Escuelas Intensificadas ED Física CABA
+    url: https://eiefcaba.web.app/index.html
+    image : images/portfolio/portfolio-4.png
+    category  : design
+
+  - title : Ecommerce Tienda de cremas faciales
+    url: https://themes.gohugo.io/theme/Hargo-hugo-ecommerce-theme/
+    image : images/portfolio/portfolio-5.png
+    category  : ios
+
+  - title : Animación Bamboo Panda
+    url: https://codepen.io/FranFunes/full/abBVBgB
+    image : images/portfolio/portfolio-6.png
+    category  : photography
+
+  - title : Sitio web producto MasterStream
+    url: https://elmasterstream.web.app/index.html
+    image : images/portfolio/portfolio-7.png
+    category  : design
+
+  - title : Presentación interactiva Herramientas de gestión organizacional
+    url: https://presentacionhgo.web.app/#/
+    image : images/portfolio/portfolio-8.png
+    category  : ios
+
+  - title : Landing page emprendimiento Bi Solutions
+    url: https://bifreesolutions.web.app/
+    image : images/portfolio/portfolio-9.png
+    category  : design

@@ -1,0 +1,30 @@
+enable    : true
+topTitle  : listado de opciones
+title     : Nuestros Servicios
+subtitle  : EqualDev se perfecciona día a día para ser pioneros en diseño web y así desarrollar tu sitio web a las medidas necesarias actuales.
+item      :
+  - icon  : tf-ion-ios-copy-outline
+    title : Marketing Digital
+    list  :
+      - name : ✔️  Generación de tráfico SEO
+      - name : ✔️  Gestión estratégica de Social Media
+      - name : ✔️  Servicios de Newsletter
+      - name : ✔️  Integrar imagen de la marca al sitio
+
+  - icon  : tf-ion-ios-alarm-outline
+    title : Diseño UX/UI
+    list  :
+      - name : ✔️ Diseño profesional
+      - name : ✔️ Alto impacto, atractivo y pregnante 
+      - name : ✔️ Adaptado a las necesidades del cliente
+      - name : ✔️ DIseños creativos e innovadores
+
+  - icon  : tf-ion-ios-book-outline
+    title : Desarrollo Web
+    list  :
+      - name : ✔️ Codificación bajo los estándares W3C
+      - name : ✔️ Maquetado y programar del sitio
+      - name : ✔️ Optimización en buscadores
+      - name : ✔️ Diseño responsive
+
+

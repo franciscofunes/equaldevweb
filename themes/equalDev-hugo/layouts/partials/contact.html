@@ -1,0 +1,122 @@
+{{ if .Site.Params.contact.enable }}
+{{ "<!-- Start Contact Us -->" | safeHTML }}
+<section class="contact-us section bg-gray" id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="title text-center">
+                    {{ with .Site.Params.contact.topTitle }}<h4>{{.}}</h4>{{ end }}
+                    {{ with .Site.Params.contact.title }}
+                    <h2>{{.}}</h2>
+                    <span class="border"></span>
+                    {{ end }}
+                    {{ with .Site.Params.contact.subtitle }}<p>{{.}}</p>{{ end }}
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            {{ "<!-- Contact Details -->" | safeHTML }}
+            <div class="col-12 col-md-6 " >
+                <div class="embed-container">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3282.8378912452376!2d-58.482726285121984!3d-34.63353668045173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcc99729827e55%3A0x53bcc85e6baf45b7!2sAv.%20Rivadavia%208306%2C%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1615469108361!5m2!1ses-419!2sar" width="500" height="400" style="border:1;" allowfullscreen="" loading="lazy" ></iframe>
+                </div>
+
+            </div>
+            {{ "<!-- Contact Form -->" | safeHTML }}
+            <div class="contact-form col-12 col-md-6 ">
+                <form id="contact-form" role="form" name="contact" method="POST" data-netlify="true">
+                    <div class="form-group">
+                        <input type="text" placeholder="Nombre" class="form-control" name="name" id="name">
+                    </div>
+
+                    <div class="form-group">
+                        <input type="email" placeholder="Correo electrónico" class="form-control" name="email" id="email">
+                    </div>
+
+                    <div class="form-group">
+                        <input type="text" placeholder="Asunto" class="form-control" name="subject" id="subject">
+                    </div>
+
+                    <div class="form-group">
+                        <textarea rows="6" placeholder="Mensaje" class="form-control" name="message" id="message"></textarea>
+                    </div>
+
+                    <div id="mail-success" class="success">
+                        Muchas gracias el cartero esta en camino! :)
+                    </div>
+
+                    <div id="mail-fail" class="error">
+                        Lo sentimos mucho no se ha podido enviar el mensaje. Intente más tarde :(
+                    </div>
+
+                    <div id="cf-submit">
+                        <input type="submit" id="contact-submit" class="btn btn-transparent" value="Enviar">
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-4">
+                <div class="address-block contact-meta-block">
+                    <i class="tf-ion-android-pin"></i>
+                    <h4>Ubicación</h4>
+                    {{ with .Site.Params.contact.address }}<p>{{ . | safeHTML }}</p>{{ end }}
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div class="phone-block contact-meta-block">
+                    <i class="tf-ion-ios-telephone"></i>
+                    <h4>Llamános</h4>
+                    <p>
+                         {{ with .Site.Params.contact.phone }}Oficina: {{.}} {{ end }} 
+                        <br> {{ with .Site.Params.contact.fax }} Celular: {{ . }} {{ end }}
+                    </p>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div class="social-icons-block contact-meta-block">
+                    <i class="tf-ion-ios-contact"></i>
+                    <h4>Redes Sociales</h4>
+                    <ul class="list-inline social-icon">
+                        {{ with .Site.Params.contact.facebook }}
+                        <li class="list-inline-item">
+                            <a href="{{.}}">
+                                <i class="tf-ion-social-facebook"></i>
+                            </a>
+                        </li>
+                        {{ end }}
+                        {{ with .Site.Params.contact.twitter }}
+                        <li class="list-inline-item">
+                            <a href="{{.}}">
+                                <i class="tf-ion-social-twitter"></i>
+                            </a>
+                        </li>
+                        {{ end }}
+                        {{ with .Site.Params.contact.linkedin }}
+                        <li class="list-inline-item">
+                            <a href="{{.}}">
+                                <i class="tf-ion-social-linkedin"></i>
+                            </a>
+                        </li>
+                        {{ end }}
+                        {{ with .Site.Params.contact.dribbble }}
+                        <li class="list-inline-item">
+                            <a href="{{.}}">
+                                <i class="tf-ion-social-dribbble"></i>
+                            </a>
+                        </li>
+                        {{ end }}
+                        {{ with .Site.Params.contact.instagram }}
+                        <li class="list-inline-item">
+                            <a href="{{.}}">
+                                <i class="tf-ion-social-instagram"></i>
+                            </a>
+                        </li>
+                        {{ end }}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
