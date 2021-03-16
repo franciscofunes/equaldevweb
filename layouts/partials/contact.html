@@ -24,7 +24,7 @@
             </div>
             {{ "<!-- Contact Form -->" | safeHTML }}
             <div class="contact-form col-12 col-md-6 ">
-                <form id="contact-form" role="form" name="contact" method="POST" data-netlify="true">
+                <form action="sendmail.php" id="contact-form" role="form" name="contact" method="POST" data-netlify="true">
                     <div class="form-group">
                         <input type="text" placeholder="Nombre" class="form-control" name="name" id="name">
                     </div>
@@ -42,14 +42,12 @@
                     </div>
 
                     <div id="mail-success" class="success">
-                        Muchas gracias el cartero esta en camino! :)
+                        Muchas gracias el cartero esta en camino! 📪
                     </div>
 
-                    <input type="hidden" name="form-name" value="contact">
-
-
+                    
                     <div id="mail-fail" class="error">
-                        Lo sentimos mucho no se ha podido enviar el mensaje. Intente más tarde :(
+                        Lo sentimos mucho no se ha podido enviar el mensaje, intente más tarde 🚨
                     </div>
 
                     <div id="cf-submit">
