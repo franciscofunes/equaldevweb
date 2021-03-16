@@ -1,1 +1,0 @@
-# Equal dev Web Site
