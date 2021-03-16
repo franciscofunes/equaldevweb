@@ -13,7 +13,7 @@ item    :
     icon    : tf-ion-ios-alarm-outline
     title   : Estimación de tiempos
     description : >
-      Se calculará una predicción de cuánto tiempo durará o costará el desarrollo y mantenimiento del proyecto.
+      Se calculará una predicción de cuánto tiempo durará o costará el desarrollo y mantenimiento del proyecto. Estas estimaciones brindarán diálogo y eficiencia.
 
   - number  : 3
     icon    : tf-ion-ios-email-outline
@@ -25,4 +25,4 @@ item    :
     icon    : tf-ion-ios-locked-outline
     title   : Sistemas seguros
     description : >
-      El proceso de prevenir y detectar el uso no autorizado de un sistema informático
+      El proceso de prevenir y detectar el uso no autorizado de un sistema informático. Así asegurando la integridad del sistema

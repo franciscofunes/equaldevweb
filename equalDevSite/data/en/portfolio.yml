@@ -32,7 +32,7 @@ item   :
     image : images/portfolio/portfolio-3.png
     category  : development
 
-  - title : Sitio web Escuelas Intensificadas ED Física CABA
+  - title : Sitio web Escuelas Intensificadas CABA
     url: https://eiefcaba.web.app/index.html
     image : images/portfolio/portfolio-4.png
     category  : design
@@ -52,7 +52,7 @@ item   :
     image : images/portfolio/portfolio-7.png
     category  : design
 
-  - title : Presentación interactiva Herramientas de gestión organizacional
+  - title : Presentación interactiva HGO
     url: https://presentacionhgo.web.app/#/
     image : images/portfolio/portfolio-8.png
     category  : ios
