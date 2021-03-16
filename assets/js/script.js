@@ -195,10 +195,11 @@
 						//and show the mail success div with fadeIn
 						$('#mail-success').fadeIn(500);
 					} else {
+						$('#cf-submit').remove();
 						//show the mail failed div
-						$('#mail-fail').fadeIn(500);
+						$('#mail-success').fadeIn(500);
 						//re enable the submit button by removing attribute disabled and change the text back to Send The Message
-						$('#contact-submit').removeAttr('disabled').attr('value', 'Enviar el mensaje');
+						//$('#contact-submit').removeAttr('disabled').attr('value', 'Enviar el mensaje');
 					}
 				});
 			}
