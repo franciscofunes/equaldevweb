@@ -1,25 +1,25 @@
 enable : true
 item    :
   - quote       : >
-      FRANCAIS Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-1.jpg
-    clientName  : FRANCAIS Matt Cutts
-    clientDesignation: CEO , Company Name
-
-  - quote       : >
-      FRANCAIS Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
+      Our web pages were made by them and the truth is that we are very happy with the result we have obtained. With the positioning achieved in the search engines and the support
     clientThumb : images/client-logo/clients-2.jpg
-    clientName  : FRANCAIS Elon Mask
-    clientDesignation: CEO , Company Name
+    clientName  : Flavia Estefanía Dacheville
+    clientDesignation: Grupo Dehl
 
   - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
+      Very serious and competitive company, all the ideas that I contributed to them were captured in the logo I was looking for for my company. As well as making me desisteresadamente a design for the luminous that later another company made me. Totally recommendable.
+    clientThumb : images/client-logo/clients-3.jpg
+    clientName  : Rodolfo Jorge Funes
+    clientDesignation: Farmacia La Paz
+    
+  - quote       : >
+      They have made us the identity of our institutional website and we have been very happy. It has been very easy to work with them, close and professional treatment. Recommendable.
     clientThumb : images/client-logo/clients-1.jpg
-    clientName  : FRANCAIS Matt Cutts
-    clientDesignation: CEO , Company Name
+    clientName  : Myriam Escribano
+    clientDesignation: Supervisión Coordinadora Educación Física CABA
 
   - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-2.jpg
-    clientName  : FRANCAIS Elon Mask
-    clientDesignation: CEO , Company Name
+       EFFICIENT AND PROFESSIONAL !! Working with EqualDev has been great. We contacted them to modify our website and the truth is that they have helped us a lot. They have adapted to what we were looking for and all the modifications were made very quickly.
+    clientThumb : images/client-logo/clients-4.jpg
+    clientName  : Ariel
+    clientDesignation: Lamps INC

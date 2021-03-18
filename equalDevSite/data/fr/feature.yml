@@ -1,16 +1,31 @@
 enable  : true
 item  :
-  - icon  : tf-ion-ios-copy-outline
-    title : FRANCAIS WordPress Theme
+  - icon  : tf-ion-code-working
+    title : Web design
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Website design adapted to cell phones. Different plans according to your needs.
 
-  - icon  : tf-ion-ios-alarm-outline
-    title : FRANCAIS Responsive Design
+  - icon  : tf-ion-stats-bars
+    title : SEO
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Your business will appear in the first places in the main search engines.
 
-  - icon  : tf-ion-ios-book-outline
-    title : Media & Advertisement
+  - icon  : tf-ion-magnet
+    title : Marketing
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Strategies tailored based on your business We create systems to attract customers.
+
+  - icon  : tf-ion-social-usd
+    title : Adwords campaigns
+    description : >
+      Strategies to advertise and promote your brand, service or product.
+
+  - icon  : tf-ion-email
+    title : Email Marketing
+    description : >
+      Creation of campaigns, launches, promotions. Newsletters.
+
+  - icon  : tf-ion-social-instagram-outline
+    title : Social Media
+    description : >
+      Campaign management in Social Networks. Position your brand among your competitors.

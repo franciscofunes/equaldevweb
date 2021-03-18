@@ -1,44 +1,60 @@
 enable  : true
-topTitle: EASY PRICING
-title   : FRANCAIS Pricing.
-subtitle : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: Plans
+title   : Choose the one that suits your business
+subtitle : We develop the perfect design for your website
 
 item  :
-  - name        : FRANCAIS BASIC
-    price       : $99
-    description : Perfect for single freelancers who work by themselves
+  - name        : BASIC
+    price       : US$40
+    description : Perfect for designing your landing page and starting to get new customers
     featurelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
-    btnText     : Sign Up
-    btnURL      : https://themefisher.com/
-
-  - name        : ADVANCE
-    price       : $199
-    description : Suitable for small businesses with up to 5 employees
-    featurelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
-    btnText     : Sign Up
-    btnURL      : https://themefisher.com/
+      - item: 4 SECTIONS
+      - item: SSL CERTIFICATE
+      - item: STATIC WEB PAGE
+      - item: MOBILE RESPONSIVE
+      - item: LIMITED MAILS
+      - item: 25 IMAGES
+      - item: REGISTER SITE ON GOOGLE
+      - item: LINK TO SOCIAL NETWORKS
+    btnText     : Request
+    btnURL      : /fr/contact/
 
   - name        : PROFESSIONAL
-    price       : $299
-    description : Great for large businesses with more than 5 employees
+    price       : US$60
+    description : Ideal for websites of businesses, enterprises, SMEs, more sections, more images, one step more
     featurelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
-    btnText     : Sign Up
-    btnURL      : https://themefisher.com/
+      - item: SSL CERTIFICATE
+      - item: 8 SECTION WEBSITE
+      - item: GOOGLE OPTIMIZED 
+      - item: ANIMATED BANNERS
+      - item: INTERACTIVE MAP
+      - item: MOBILE RESPONSIVE
+      - item: 45 IMAGES
+      - item: REGISTER SITE ON GOOGLE
+      - item: CONTACT FORM
+      - item: LINK TO SOCIAL NETWORKS
+    btnText     : Request
+    btnURL      : /fr/contact/
+
+  - name        : CORPORATIVO
+    price       : US$100
+    description : Ideal for institutions, entrepreneurship and companies that wish to expand into the world of electronic commerce.
+    featurelist :
+      - item: SAFE SITE
+      - item: SSL CERTIFICATE
+      - item: ONLINE OR INSTITUTIONAL STORE
+      - item: 15 SECTION WEBSITE
+      - item: ONLINE CHAT
+      - item: SHOPPING CART
+      - item: ONLINE CHARGES
+      - item: UP TO 40 PRODUCTS
+      - item: ANIMATED BANNERS
+      - item: INTERACTIVE MAP
+      - item: ADAPTABLE TO DEVICES
+      - item: 150 IMAGES
+      - item: REGISTER ON GOOGLE
+      - item: CONTACT FORM
+      - item: LINK TO SOCIAL NETWORKS
+    btnText     : Request
+    btnURL      : /fr/contact/
+  

@@ -1,28 +1,28 @@
 enable  : true
-topTitle: FRANCAIS HOW WE WORKS
-title   : FRANCAIS Our Work Process
-subtitle: FRANCAIS Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: How we work?
+title   : Our work process
+subtitle:  This systematization indicates how a project is divided into smaller modules to standardize how it is managed.
 item    :
   - number  : 1
     icon    : tf-ion-ios-briefcase-outline
-    title   : Project Analysis
+    title   : Project analysis
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      We collect, examine and formulate customer requirements and any restrictions that may apply.
 
   - number  : 2
     icon    : tf-ion-ios-alarm-outline
-    title   : Time Management
+    title   : Time estimation
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      A prediction of how long the development and maintenance of the project will take or cost will be calculated. These estimates will provide dialogue and efficiency.
 
   - number  : 3
     icon    : tf-ion-ios-email-outline
-    title   : Mail Support
+    title   : Technical support
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      We provide assistance to users when they have a problem using a product or service provided.
 
   - number  : 4
     icon    : tf-ion-ios-locked-outline
-    title   : Secure System
+    title   : Safe systems
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      The process of preventing and detecting unauthorized use of a computer system. Thus ensuring the integrity of the system

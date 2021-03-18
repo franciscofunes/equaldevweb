@@ -1,28 +1,30 @@
 enable    : true
-topTitle  : FRANCAIS A LIST OF SERVICES
-title     : FRANCAIS Our Service.
-subtitle  : FRANCAIS Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle  : Options list
+title     : Our services
+subtitle  : EqualDev is perfected day by day to be pioneers in web design and thus develop your website to the current necessary measures.
 item      :
   - icon  : tf-ion-ios-copy-outline
-    title : FRANCAIS Branding
+    title : Marketing Digital
     list  :
-      - name : Brand Strategy
-      - name : Advertising / Campaigns
-      - name : Product Design
-      - name : Video / Photography
+      - name : ✔️  SEO traffic generation
+      - name : ✔️  Strategic management of Social Media
+      - name : ✔️  Newsletter Services
+      - name : ✔️  Integrate brand image to the site
 
   - icon  : tf-ion-ios-alarm-outline
-    title : FRANCAIS Branding
+    title : UX/UI design
     list  :
-      - name : Web Design
-      - name : E- Commerce Site Design
-      - name : App Development
-      - name : Mobile UI Design
+      - name : ✔️ Professional design
+      - name : ✔️ High impact, attractive and pregnant
+      - name : ✔️ Adapted to the client's needs
+      - name : ✔️ Creative and innovative designs
 
   - icon  : tf-ion-ios-book-outline
-    title : FRANCAIS IOS App Development
+    title : Web development
     list  :
-      - name : Game Development
-      - name : Game Design
-      - name : Social Media Marketing
-      - name : Mobile UI Design
+      - name : ✔️ Coding under W3C standards
+      - name : ✔️ Layout and programming of the site
+      - name : ✔️ Search engine optimization
+      - name : ✔️ Responsive design
+
+

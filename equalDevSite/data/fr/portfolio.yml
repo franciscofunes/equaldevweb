@@ -1,42 +1,63 @@
 enable  : true
-topTitle: FRANCAIS RECENT WORK
-title   : FRANCAIS WORK SHOWCASE.
-subtitle: FRANCAIS Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: Recent Work
+title   : WORK PORTFOLIO.
+subtitle: A sample of our work done for our clients
 
 filtermenu :
-  - name      : Photography
+  - name      : Animation
     category  : photography
 
-  - name      : Ios App
+  - name      : Web Apps
     category  : ios
 
-  - name      : Development
+  - name      : Web development
     category  : development
 
-  - name      : Design
+  - name      : Web design
     category  : design
 
 item   :
-  - title : AirBnB Postcard
-    image : images/portfolio/portfolio-1.jpg
-    category  : photography
-
-  - title : D Design
-    image : images/portfolio/portfolio-2.jpg
-    category  : ios, design
-
-  - title : Xbox 360
-    image : images/portfolio/portfolio-3.jpg
-    category  : photography, development
-
-  - title : Ballon Card
-    image : images/portfolio/portfolio-4.jpg
-    category  : ios
-
-  - title : Ready Toons
-    image : images/portfolio/portfolio-5.jpg
+  - title : Website Commercial premises "Farmacia La Paz"
+    url: https://www.farmacialapaz.com.ar
+    image : images/portfolio/portfolio-1.png
     category  : design
 
-  - title : Illustration
-    image : images/portfolio/portfolio-6.jpg
+  - title : Consultant website "ERP Solutions
+    url: https://freesolutionserp.web.app/
+    image : images/portfolio/portfolio-2.png
+    category  : design
+
+  - title : Self-managed website "Grupo Dehl"
+    url: https://www.grupodehl.com
+    image : images/portfolio/portfolio-3.png
     category  : development
+
+  - title : CABA Intensified Schools website
+    url: https://eiefcaba.web.app/index.html
+    image : images/portfolio/portfolio-4.png
+    category  : design
+
+  - title : Ecommerce Face cream shop
+    url: https://themes.gohugo.io/theme/Hargo-hugo-ecommerce-theme/
+    image : images/portfolio/portfolio-5.png
+    category  : ios
+
+  - title : Bamboo Panda Animation
+    url: https://codepen.io/FranFunes/full/abBVBgB
+    image : images/portfolio/portfolio-6.png
+    category  : photography
+
+  - title : MasterStream product website
+    url: https://elmasterstream.web.app/index.html
+    image : images/portfolio/portfolio-7.png
+    category  : design
+
+  - title : HGO interactive presentation
+    url: https://presentacionhgo.web.app/#/
+    image : images/portfolio/portfolio-8.png
+    category  : ios
+
+  - title : Bi Solutions entrepreneurship landing page
+    url: https://bifreesolutions.web.app/
+    image : images/portfolio/portfolio-9.png
+    category  : design

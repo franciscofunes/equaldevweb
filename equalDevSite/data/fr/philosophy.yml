@@ -1,25 +1,26 @@
 enable    : true
-topTitle  : FRANCAIS LITTLE MORE BRIEF
-title     : FRANCAIS About Us.
-subtitle  : FRANCAIS Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle   : nosotros
+title     : Who we are?
+subtitle  : We develop and implement solutions with real results on digital platforms allowing companies to exploit their full potential on the web.
 tabItem   :
   - id        : philosophy
-    title     : FRANCAIS Our Philosophy
-    heading   : FRANCAIS We Create Designs and technology
+    title     : Philosophy
+    heading   : We create design and technology
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      Simply put, we are creators, designers, engineers, educators, and problem solvers.
+      We create for you and with you. At EqualDev we work together with our clients, generating an enriching synergy in the process.
     image     : images/company/company-image.jpg
 
   - id        : mission
-    title     : FRANCAIS Mission
-    heading   : FRANCAIS Our Mission
+    title     : Misión
+    heading   : Our mission
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      Maximize the potential of our clients through the use of the Internet. We are promoters of changes that generate common good. With a nonconformist spirit open to a new, more humane and sustainable reality. We work based on ethical codes of honesty and responsibility with people and the environment.oambiente.
     image     : images/company/company-image-2.jpg
 
   - id        : vision
-    title     : FRANCAIS Vision
-    heading   : FRANCAIS Our Vision
+    title     : Vision
+    heading   : Our vision
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      To be one of the best web development companies, recognized for the innovation, simplicity and value generation of its solutions, with a high productivity and human quality of its team. Working from a horizontal management, being transparency, self-responsibility, trust and solidarity the pillars that underpin this company, we want to be a reference in terms of ethical and responsible communication.
     image     : images/company/company-image-3.jpg

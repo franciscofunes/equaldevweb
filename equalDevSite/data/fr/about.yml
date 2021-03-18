@@ -2,12 +2,15 @@ enable  : true
 item    :
   - positionRight : false
     image : images/about/about-1.jpg
-    title : FRANCAIS Creativity is in our blood
-    description : >
-      FRANCAIS Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+    title : Creativity is in our Blood
+    description : >    
+      Our purpose is to think strategies and ensure results.
+      Thus, all our services will provide you with tailor-made solutions for your project.
+      We truly believe that with a correct web strategy, correct communication and creative design, your company can take advantage of the internet that is WAY better than you imagine possible.
+
 
   - positionRight : true
     image : images/about/about-2.jpg
-    title : FRANCAIS We think out of the Box
+    title : We think outside the box
     description : >
-      FRANCAIS Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+      We develop high impact web pages aimed at maximizing results. We are specialists in generating customized solutions and personalized design for each client. We work the web design taking care of the details to the maximum. We carefully select the elements, the colors, the distribution, the typography. Every detail counts. The light of the photos, contrasts, calls to action… we consider every aspect of the design.
