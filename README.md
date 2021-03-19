@@ -1,17 +1,16 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+[![Contributors][contributors-shield]][https://github.com/franciscofunes/equaldevweb/pulls]
+[![Forks][forks-shield]][https://github.com/franciscofunes/equaldevweb/network/members]
+[![Stargazers][stars-shield]][https://github.com/franciscofunes/equaldevweb/stargazers]
+[![Issues][issues-shield]][https://github.com/franciscofunes/equaldevweb/issues]
+[![MIT License][license-shield]][https://github.com/franciscofunes/equaldevweb/blob/master/LICENSE]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/francisco-funes/]
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="/equalDevSite/static/images/logo.svg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/franciscofunes/equaldevweb">
+    <img src="https://i.imgur.com/yPjNWDo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">EqualDev website</h3>
@@ -22,7 +21,7 @@
     <a href="https://github.com/franciscofunes/equaldevweb"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/franciscofunes/equaldevweb">View Demo</a>
+    <a href="https://equaldev.netlify.app/en/">View Demo</a>
     ·
     <a href="https://github.com/franciscofunes/equaldevweb/issues">Report Bug</a>
     ·
@@ -63,11 +62,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://i.imgur.com/chE8x0Y.png)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+`franciscofunes`, `equaldevweb`, `twitter_handle`, `f.funes@bue.edu.ar`, `EqualDev Website`, `I redesign an Hugo Template for practicing Jamstack, in this case using Hugo as the static web generator.`
 
 
 ### Built With
@@ -80,7 +79,6 @@ Here's a blank template to get started:
 
 
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -89,37 +87,38 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Chocolatey (Windows)
   ```sh
-  npm install npm@latest -g
+  choco install hugo -confirm
   ```
+* [Installing Chocolatey](https://chocolatey.org/install)
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/franciscofunes/equaldevweb
    ```
-2. Install NPM packages
+2. Quick Start Hugo
    ```sh
-   npm install
+   choco install hugo -confirm
    ```
-
+* [Step by step](https://gohugo.io/getting-started/quick-start/)
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Usage Hugo Themes
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+In this web page mention below you will find plenty of hugo templates for starting working and playing with this stack.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [HUGO THEMES](https://themes.gohugo.io/)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/gohugoio/hugo) for a list of proposed features (and known issues).
 
 
 
@@ -146,7 +145,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@1Funes1](https://twitter.com/1funes1) - email
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
