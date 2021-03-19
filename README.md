@@ -1,9 +1,9 @@
-[![Contributors][contributors-shield]](https://github.com/franciscofunes/equaldevweb/pulls)
-[![Forks][forks-shield]](https://github.com/franciscofunes/equaldevweb/network/members)
-[![Stargazers][stars-shield](https://github.com/franciscofunes/equaldevweb/stargazers)
-[![Issues][issues-shield]](https://github.com/franciscofunes/equaldevweb/issues)
-[![MIT License][license-shield]](https://github.com/franciscofunes/equaldevweb/blob/master/LICENSE)
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/francisco-funes/)
+[![Contributors][contributors-shield]]
+[![Forks][forks-shield]]
+[![Stargazers][stars-shield]
+[![Issues][issues-shield]]
+[![MIT License][license-shield]]
+[![LinkedIn][linkedin-shield]]
 
 
 <!-- PROJECT LOGO -->
@@ -153,15 +153,15 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/franciscofunes/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/franciscofunes/equaldevweb.svg?style=for-the-badge
 [contributors-url]: https://github.com/franciscofunes/equaldevweb/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/franciscofunes/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/franciscofunes/equaldevweb.svg?style=for-the-badge
 [forks-url]: https://github.com/franciscofunes/equaldevweb/network/members
-[stars-shield]: https://img.shields.io/github/stars/franciscofunes/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/franciscofunes/equaldevweb.svg?style=for-the-badge
 [stars-url]: https://github.com/franciscofunes/equaldevweb/stargazers
-[issues-shield]: https://img.shields.io/github/issues/franciscofunes/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/franciscofunes/equaldevweb.svg?style=for-the-badge
 [issues-url]: https://github.com/franciscofunes/equaldevweb/issues
-[license-shield]: https://img.shields.io/github/license/franciscofunes/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/franciscofunes/equaldevweb.svg?style=for-the-badge
 [license-url]: https://github.com/franciscofunes/equaldevweb/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/francisco-funes/
