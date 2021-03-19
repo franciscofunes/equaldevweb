@@ -1,16 +1,16 @@
-[![Contributors][contributors-shield]][https://github.com/franciscofunes/equaldevweb/pulls]
-[![Forks][forks-shield]][https://github.com/franciscofunes/equaldevweb/network/members]
-[![Stargazers][stars-shield]][https://github.com/franciscofunes/equaldevweb/stargazers]
-[![Issues][issues-shield]][https://github.com/franciscofunes/equaldevweb/issues]
-[![MIT License][license-shield]][https://github.com/franciscofunes/equaldevweb/blob/master/LICENSE]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/francisco-funes/]
+[![Contributors][contributors-shield]](https://github.com/franciscofunes/equaldevweb/pulls)
+[![Forks][forks-shield]](https://github.com/franciscofunes/equaldevweb/network/members)
+[![Stargazers][stars-shield](https://github.com/franciscofunes/equaldevweb/stargazers)
+[![Issues][issues-shield]](https://github.com/franciscofunes/equaldevweb/issues)
+[![MIT License][license-shield]](https://github.com/franciscofunes/equaldevweb/blob/master/LICENSE)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/francisco-funes/)
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/franciscofunes/equaldevweb">
-    <img src="https://i.imgur.com/yPjNWDo.png" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/yPjNWDo.png" alt="Logo" width="200" height="50">
   </a>
 
   <h3 align="center">EqualDev website</h3>
@@ -62,11 +62,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://i.imgur.com/chE8x0Y.png)
+<img src="https://i.imgur.com/chE8x0Y.png"
+     alt="work screenshot" /> <br/>
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`franciscofunes`, `equaldevweb`, `twitter_handle`, `f.funes@bue.edu.ar`, `EqualDev Website`, `I redesign an Hugo Template for practicing Jamstack, in this case using Hugo as the static web generator.`
+
+**I redesign an Hugo Template for practicing Jamstack, in this case using Hugo as the static web generator.**
 
 
 ### Built With
@@ -145,7 +145,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@1Funes1](https://twitter.com/1funes1) - email
+Francisco Funes - [@1Funes1](https://twitter.com/1funes1) - email
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
