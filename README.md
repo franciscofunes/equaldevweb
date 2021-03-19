@@ -1,9 +1,9 @@
-[![Contributors][contributors-shield]]
-[![Forks][forks-shield]]
-[![Stargazers][stars-shield]
-[![Issues][issues-shield]]
-[![MIT License][license-shield]]
-[![LinkedIn][linkedin-shield]]
+[Contributors][contributors-shield]
+[Forks][forks-shield]
+[Stargazers][stars-shield]
+[Issues][issues-shield]
+[MIT License][license-shield]
+[LinkedIn][linkedin-shield]
 
 
 <!-- PROJECT LOGO -->
