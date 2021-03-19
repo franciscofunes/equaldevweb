@@ -1,9 +1,9 @@
-[Contributors][contributors-shield]
-[Forks][forks-shield]
-[Stargazers][stars-shield]
-[Issues][issues-shield]
-[MIT License][license-shield]
-[LinkedIn][linkedin-shield]
+[![Contributors][contributors-shield]
+[![Forks][forks-shield]]
+[![Stargazers][stars-shield]
+[![Issues][issues-shield]]
+[![MIT License][license-shield]]
+[![LinkedIn][linkedin-shield]]
 
 
 <!-- PROJECT LOGO -->
@@ -144,9 +144,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Francisco Funes - [@1Funes1](https://twitter.com/1funes1) - email
+Francisco Funes - [Web](https://franciscofunes.netlify.com/)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [DEMO](https://equaldev.netlify.app/en/)
 
 
 
