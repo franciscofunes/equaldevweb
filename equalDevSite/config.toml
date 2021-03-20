@@ -53,7 +53,7 @@ footerSubscribeTitle = "Subscribe"
 # Hero Area Section
 [Languages.fr.params.hero]
 enable  = true
-heading = "Diseño Web Profesional y Desarrollo Web Empresarial"
+heading = "Professional Web Design and Business Web Development"
 description = "We are a design and digital marketing agency based in Buenos Aires ... We develop and implement solutions with real results on digital platforms that allow companies to exploit their full potential on the web"
 button  = true
 btnText = "I want to design my website"
