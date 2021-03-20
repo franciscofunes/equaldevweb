@@ -131,7 +131,7 @@ button  = true
 btnText = "Quiero diseñar mi página web"
 btnURL  = "/en/contact"
 videoThumb = "images/slider/video-player-thumb3.jpg"
-videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+videoURL   = "https://streamable.com/19i7af"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
