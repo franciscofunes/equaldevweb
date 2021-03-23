@@ -59,7 +59,7 @@ button  = true
 btnText = "I want to design my website"
 btnURL  = "/fr/contact"
 videoThumb = "images/slider/video-player-thumb3.jpg"
-videoURL   = "https://streamable.com/19i7af"
+videoURL   = "https://vimeo.com/527355855"
 
 # About 2 Section
 [Languages.fr.params.aboutSm]
@@ -131,7 +131,7 @@ button  = true
 btnText = "Quiero diseñar mi página web"
 btnURL  = "/en/contact"
 videoThumb = "images/slider/video-player-thumb3.jpg"
-videoURL   = "https://streamable.com/19i7af"
+videoURL   = "https://vimeo.com/527355855"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
