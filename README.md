@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/franciscofunes/equaldevweb">
-    <img src="https://i.imgur.com/yPjNWDo.png" alt="Logo" width="200" height="50">
+    <img src="./equalDevSite/static/images/logo.svg" alt="Logo" width="200" height="50">
   </a>
 
   <h3 align="center">EqualDev website</h3>
