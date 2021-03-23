@@ -1,6 +1,6 @@
 ---
-title: "FRANCAIS Our Services"
+title: "Services"
 date: 2018-07-07T14:53:13+06:00
 draft: false
-description: "This is meta description"
+description: "Get to know our services and hire us, EqualDev web page design"
 ---
