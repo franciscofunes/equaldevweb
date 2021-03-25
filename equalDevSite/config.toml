@@ -223,7 +223,7 @@ url     = "blog"
 weight  = 2
 [[menu.quicklink]]
 name    = "faqs"
-url     = "about"
+url     = "blog"
 weight  = 3
 [[menu.quicklink]]
 name    = "badges"
