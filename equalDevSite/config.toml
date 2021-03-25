@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://equaldev.netlify.app/"
 languageCode = "es-us"
 title = "Diseño de páginas web | EqualDev "
 theme = "equalDevSite"
@@ -59,7 +59,7 @@ button  = true
 btnText = "I want to design my website"
 btnURL  = "/fr/contact"
 videoThumb = "images/slider/video-player-thumb3.jpg"
-videoURL   = "https://vimeo.com/527355855"
+videoURL   = "https://player.vimeo.com/video/527355855"
 
 # About 2 Section
 [Languages.fr.params.aboutSm]
@@ -131,7 +131,7 @@ button  = true
 btnText = "Quiero diseñar mi página web"
 btnURL  = "/en/contact"
 videoThumb = "images/slider/video-player-thumb3.jpg"
-videoURL   = "https://vimeo.com/527355855"
+videoURL   = "https://player.vimeo.com/video/527355855"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
@@ -215,11 +215,11 @@ weight  = 3
 # Footer Quick links Menu
 [[menu.quicklink]]
 name    = "partners"
-url     = "about"
+url     = "service"
 weight  = 1
 [[menu.quicklink]]
 name    = "about"
-url     = "about"
+url     = "blog"
 weight  = 2
 [[menu.quicklink]]
 name    = "faqs"
@@ -227,5 +227,5 @@ url     = "about"
 weight  = 3
 [[menu.quicklink]]
 name    = "badges"
-url     = "about"
+url     = "contact"
 weight  = 4
