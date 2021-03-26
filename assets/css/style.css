@@ -738,7 +738,7 @@ a:hover {
 }
 
 .hero-area {
-  padding: 110px 0;
+  padding: 110px 0px 80px;
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
