@@ -136,7 +136,7 @@ a:hover {
 }
 
 .section {
-  padding: 100px 0;
+  padding: 100px 0px 0px 2px;
 }
 
 @media (max-width: 480px) {
