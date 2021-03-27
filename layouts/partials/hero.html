@@ -38,12 +38,12 @@
 
     let hero = document.getElementById("heroArea");
     //let header =document.getElementById("headerTop");
-    let sticky = hero.offsetTop;
+    let sticky = navbar.offsetTop;
+    console.log(sticky);
 
     function myFunction() {
       if (window.pageYOffset >= sticky) {
-        hero.style.padding = '120px 0 57px';
-        //header.setAttribute('style', 'z-index: 9999;');
+        hero.style.padding = '120px 0 80px';;');
 
       } else {
         console.log("hi");
