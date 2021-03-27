@@ -764,7 +764,7 @@ a:hover {
 
 @media (max-width: 480px) {
   .hero-area {
-    padding: 60px 0px 57px 0px;
+    padding: 100px 0px 47px 0px;
     
   }
 }
@@ -781,17 +781,17 @@ a:hover {
 }
 
 .hero-area .block h2 {
-  font-size: 40px;
-  margin-bottom: 20px;
+  font-size: 34px;
+  margin-bottom: 7px;
 }
 
 .hero-area .block p {
   color: #707d8f;
-  margin-bottom: 20px;
+  margin-bottom: 1px;
 }
 
 .hero-area .block .list-inline {
-  margin-top: 50px;
+  margin-top: 14px;
 }
 
 .hero-area .block .btn-main,
