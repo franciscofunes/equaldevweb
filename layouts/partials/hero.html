@@ -38,12 +38,10 @@
 
     let hero = document.getElementById("heroArea");
     //let header =document.getElementById("headerTop");
-    let sticky = navbar.offsetTop;
-    console.log(sticky);
 
     function myFunction() {
-      if (window.pageYOffset >= sticky) {
-        hero.style.padding = '120px 0 80px';;');
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        hero.style.padding = '95px 0px 45px';
 
       } else {
         console.log("hi");
