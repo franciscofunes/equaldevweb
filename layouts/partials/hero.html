@@ -1,6 +1,6 @@
 {{ if .Site.Params.hero.enable }}
 {{ "<!-- Hero Area -->" | safeHTML }}
-<section class="hero-area">
+<section id="heroArea" class="hero-area">
     <div class="container">
         <div class="row">
             <div class="col-md-6" style="position: relative;">
@@ -31,4 +31,23 @@
         </div>
     </div>
 </section>
+  <script>
+    window.onscroll = function () {
+      myFunction();
+    };
+
+    let hero = document.getElementById("heroArea");
+    //let header =document.getElementById("headerTop");
+    let sticky = hero.offsetTop;
+
+    function myFunction() {
+      if (window.pageYOffset >= sticky) {
+        hero.style.padding = '120px 0 57px';
+        //header.setAttribute('style', 'z-index: 9999;');
+
+      } else {
+        console.log("hi");
+      }
+    }
+  </script>
 {{ end }}
