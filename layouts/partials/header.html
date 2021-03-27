@@ -27,9 +27,8 @@
             <!-- Icones & drapeaux de choix des langues -->
             <div id="drapeaux">
               <!-- Pour passer la langue actuelle (variable globale) dans la range => explicitement -->
-              {{ range .Site.Params.listeLangues }}
-              {{ partial "flags.html" (dict "site" $.Site "liste" .) }}
-              {{ end }}
+              {{ range .Site.Params.listeLangues }} {{ partial "flags.html"
+              (dict "site" $.Site "liste" .) }} {{ end }}
             </div>
             <div class="collapse navbar-collapse" id="navigation">
               <ul class="navbar-nav ml-auto">
@@ -71,7 +70,7 @@
         </div>
       </div>
     </div>
-    
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Subir</button>
   </section>
   <!--Stycky nav bar-->
   <script>
@@ -80,19 +79,23 @@
     };
 
     let navbar = document.getElementById("navbar");
-    let heroArea = document.querySelector("hero-area");
+    //let heroArea = document.querySelector("hero-area");
     //let header =document.getElementById("headerTop");
     let sticky = navbar.offsetTop;
+    let mybutton = document.getElementById("myBtn");
 
     function myFunction() {
       if (window.pageYOffset >= sticky) {
         navbar.classList.add("sticky");
-        //navbar.style.padding = '120px 0 57px';
-        //header.setAttribute('style', 'z-index: 9999;');
-
+        mybutton.style.display = "block";
       } else {
         navbar.classList.remove("sticky");
+        mybutton.style.display = "none";
       }
+    }
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
     }
   </script>
 </section>
