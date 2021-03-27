@@ -80,12 +80,14 @@
     };
 
     let navbar = document.getElementById("navbar");
+    let heroArea = document.querySelector("hero-area");
     //let header =document.getElementById("headerTop");
     let sticky = navbar.offsetTop;
 
     function myFunction() {
       if (window.pageYOffset >= sticky) {
         navbar.classList.add("sticky");
+        heroArea.style.padding = '120px 0 57px';
         //header.setAttribute('style', 'z-index: 9999;');
 
       } else {
