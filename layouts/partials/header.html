@@ -70,7 +70,7 @@
         </div>
       </div>
     </div>
-    <!--<button onclick="topFunction()" id="myBtn" title="Go to top"><i class="ion-android-arrow-dropup-circle"></i></button>-->
+
   </section>
   <!--Stycky nav bar-->
   <script>
@@ -79,24 +79,15 @@
     };
 
     let navbar = document.getElementById("navbar");
-    let mybutton = document.getElementById("myBtn");
-    //let heroArea = document.querySelector("hero-area");
-    //let header =document.getElementById("headerTop");
     let sticky = navbar.offsetTop;
     
 
     function myFunction() {
       if (window.pageYOffset >= sticky) {
         navbar.classList.add("sticky");
-        //mybutton.style.display = "block";
       } else {
         navbar.classList.remove("sticky");
-        //mybutton.style.display = "none";
       }
     }
-    //function topFunction() {
-      //document.body.scrollTop = 0;
-      //document.documentElement.scrollTop = 0;
-    //}
   </script>
 </section>
