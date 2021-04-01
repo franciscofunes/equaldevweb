@@ -136,7 +136,7 @@ a:hover {
 }
 
 .section {
-  padding: 100px 0px 0px 2px;
+  padding: 100px 0px 100px 2px;
 }
 
 @media (max-width: 480px) {
@@ -404,7 +404,7 @@ a:hover {
 }
 
 .bg-gray {
-  background: #f9f9f9;
+  background: #f5f7f8;
 }
 
 .color-gray {
