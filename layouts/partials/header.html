@@ -53,6 +53,7 @@
             </div>
         </div>
     </div>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">
 </section>
   <!--Stycky nav bar-->
   <script>
@@ -61,15 +62,22 @@
     };
 
     let navbar = document.getElementById("navbar");
+    let mybutton = document.getElementById("myBtn");
     let sticky = navbar.offsetTop;
     
 
     function myFunction() {
-      if (window.pageYOffset >= sticky) {
+      if (window.pageYOffset >= sticky || document.body.scrollTop > 20 || document.documentElement.scrollTop) {
         navbar.classList.add("sticky");
+        mybutton.style.display = "block";
       } else {
         navbar.classList.remove("sticky");
+        mybutton.style.display = "none";
       }
+    }
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
     }
   </script>
 </section>
