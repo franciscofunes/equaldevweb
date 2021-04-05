@@ -6,7 +6,7 @@ subtitle : Desarrollamos el diseño perfecto para tu página web
 item  :
   - name        : BÁSICO
     price       : $4000
-    description : Perfecto para diseñar tu página de aterrizaje y comenzar a conseguir nuevos clientes
+    description : Perfecto para diseñar tu página de aterrizaje y comenzar a conseguir nuevos clientes.
     featurelist :
       - item: 4 SECCIONES
       - item: CERTIFICADO SSL
@@ -21,7 +21,7 @@ item  :
 
   - name        : PROFESIONAL
     price       : $6000
-    description : Ideal para Sitios webs de comercios, emprendimientos,pymes, más secciones, más imagenes, un paso m
+    description : Ideal para Sitios webs de comercios, emprendimientos,pymes, más secciones, más imagenes, un paso más.
     featurelist :
       - item: CERTIFICADO SSL
       - item: PÁGINA WEB DE 8 SECCIONES
