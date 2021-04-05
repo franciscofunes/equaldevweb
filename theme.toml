@@ -1,12 +1,12 @@
 name = "Navigator Hugo"
 license = "MIT"
-licenselink = "https://github.com/themefisher/navigator-hugo/blob/master/LICENSE"
-description = "Hugo port of the Themefisher’s Navigator Template"
-homepage = "https://gethugothemes.com/products/navigator/"
+licenselink = "https://github.com/franciscofunes/equaldevweb/blob/master/LICENSE"
+description = "Inspire in Hugo port Navigator template for the EqualDev website"
+homepage = "https://www.equaldev.com/"
 tags = ['landing-page', 'business', 'agency-template', 'multilingual', 'themefisher', 'hugo-theme', 'hugo-templates', 'bootstrap', 'blog', 'responsive', 'clean', 'simple', 'company', 'projects', 'dark', 'creative', 'contact-form', 'custom-themes', 'mobile', 'flexbox', 'minimalistic', 'gethugothemes']
 features = ['bootstrap4','responsive','multilingual']
 min_version = "0.62.0"
 
 [author]
   name = "EqualDev redesign"
-  homepage = "https://themefisher.com/"
+  homepage = "https://franciscofunes.netlify.app/"
