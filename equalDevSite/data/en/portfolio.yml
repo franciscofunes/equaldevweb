@@ -61,3 +61,8 @@ item   :
     url: https://bifreesolutions.web.app/
     image : images/portfolio/portfolio-9.png
     category  : design
+
+  - title : Landing page emprendimiento Cursos Online
+    url: https://tutoriasumed.netlify.app/
+    image : images/portfolio/portfolio-10.png
+    category  : design
