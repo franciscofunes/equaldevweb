@@ -36,6 +36,11 @@ item   :
     url: https://eiefcaba.web.app/index.html
     image : images/portfolio/portfolio-4.png
     category  : design
+  
+  - title : Landing page emprendimiento Cursos Online
+    url: https://tutoriasumed.netlify.app/
+    image : images/portfolio/portfolio-10.png
+    category  : design
 
   - title : Ecommerce Tienda de cremas faciales
     url: https://themes.gohugo.io/theme/Hargo-hugo-ecommerce-theme/
@@ -62,7 +67,3 @@ item   :
     image : images/portfolio/portfolio-9.png
     category  : design
 
-  - title : Landing page emprendimiento Cursos Online
-    url: https://tutoriasumed.netlify.app/
-    image : images/portfolio/portfolio-10.png
-    category  : design
