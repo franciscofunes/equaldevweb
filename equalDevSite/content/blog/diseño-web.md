@@ -1,6 +1,6 @@
 ---
 title: Diseño web ¿Qué es?
-date: 2020-07-07T17:04:41+06:00
+date: 2020-08-07T17:04:41+06:00
 image: images/blog/post-17.jpg
 author: Redator Rock Content
 description: "Atención al cliente, Business, E-commerce, Marketing, Publicidad Online, Redes Sociales, diseño web, desarrolo web"
@@ -39,28 +39,28 @@ WordPress es uno de los más conocidos y prácticos porque tiene una serie de te
 
 Cuando hablamos de un buen diseño web, algunos puntos son fundamentales y no pueden faltar en tu sitio. Aquí están los aspectos más destacados:
 
-Responsividad
+**Responsividad**
 
 Como cada vez más las personas acceden a internet solo por teléfono celular, es muy importante que tu sitio sea adecuado para dispositivos móviles, es decir, que sea responsivo.
 
-Escaneabilidad
+**Escaneabilidad**
 
 ¿Conoces esos correos electrónicos que tienen un «bloque de texto» porque todo el mensaje está escrito en un solo párrafo? Leerlos es demasiado agotador, ¿no es así? Bueno, lo mismo ocurre con los visitantes de tu sitio si el no considerar la escaneabilidad textual.
 
-Tipografía
+**Tipografía**
 
 Si desde este punto comenzamos a escribir esta publicación con un tipo de letra completamente diferente, tu experiencia de lectura no sería muy agradable, ¿verdad? Después de todo, es una tipografía que no encajaría con el resto del contenido. Lo mismo debería aplicarse a tu sitio.
 
-Velocidad de carga
+**Velocidad de carga**
 
 En un mundo donde todos parecen estar siempre apurados, tener un sitio web de carga rápida es esencial. Según Google, los sitios que tardan más de 2 segundos en cargarse dañan tanto la experiencia del usuario como la indexación del sitio.
 * * * * *
 
 # ¿Cuáles son las ventajas de invertir en un diseño web de calidad?
 
-Estos son los cinco beneficios que puedes tener al invertir en un diseño web profesional:
+Estos son losbeneficios que puedes tener al invertir en un diseño web profesional:
 
-1. Buenas primeras impresiones
+**Buenas primeras impresiones**
 
 El sitio es la presentación de la empresa que gestionas en los medios digitales. Cada vez que un posible cliente nuevo acude a tu empresa, te preocupas hacer una buena primera impresión.
 
@@ -69,15 +69,17 @@ Bueno, con tu sitio, la situación no es diferente. Debe ser un reflejo inmediat
 Un sitio web que no sea profesional hace que los visitantes no tengan una buena experiencia e incluso piensen que la empresa está desactualizada. Esto hará que busquen ofertas como la tuya en competidores que tienen un mejor sitio web.
 
 
-
 ¿Alguna vez has estado navegando en un sitio web, pero pensaste en irte porque el diseño no le atrajo, como la tipografía y la forma en que se distribuyó el contenido?
 
 ¿Y qué pasa con los sitios web lentos que no se cargan en tu teléfono o tablet justo cuando más necesita acceder rápidamente al contenido?
 
 Todo esto hace que la experiencia de los visitantes a un sitio sea muy mala y la consecuencia de esto es la disminución de la conversión en de estos visitantes a clientes. Para que no suceda con el sitio web de tu empresa, debes tener un diseño web de calidad.
 
-Y para entender este concepto, las ventajas de invertir en el diseño de un sitio web y cómo identificar el perfil de un buen diseñador web, ¡sigue leyendo este post hasta el final!
-¿Qué es el diseño web?
+Y para entender este concepto, las ventajas de invertir en el diseño de un sitio web y cómo identificar el perfil de un buen diseñador web, 
+
+***¡sigue leyendo este post hasta el final!***
+
+**¿Qué es el diseño web?**
 
 El diseño web implica trabajo relacionado con el layout y diseño de páginas online, así como la producción de contenido, aunque generalmente se aplica a la creación de sitios web.
 
@@ -93,10 +95,12 @@ WordPress es uno de los más conocidos y prácticos porque tiene una serie de te
 ¿Cuáles son los elementos clave del diseño web?
 
 Cuando hablamos de un buen diseño web, algunos puntos son fundamentales y no pueden faltar en tu sitio. Aquí están los aspectos más destacados:
-Responsividad
+
+**Responsividad**
 
 Como cada vez más las personas acceden a internet solo por teléfono celular, es muy importante que tu sitio sea adecuado para dispositivos móviles, es decir, que sea responsivo.
-Escaneabilidad
+
+**Escaneabilidad**
 
 ¿Conoces esos correos electrónicos que tienen un «bloque de texto» porque todo el mensaje está escrito en un solo párrafo? Leerlos es demasiado agotador, ¿no es así? Bueno, lo mismo ocurre con los visitantes de tu sitio si el no considerar la escaneabilidad textual.
 Tipografía
@@ -108,6 +112,7 @@ En un mundo donde todos parecen estar siempre apurados, tener un sitio web de ca
 ¿Cuáles son las ventajas de invertir en un diseño web de calidad?
 
 Estos son los cinco beneficios que puedes tener al invertir en un diseño web profesional:
+
 1. Buenas primeras impresiones
 
 El sitio es la presentación de la empresa que gestionas en los medios digitales. Cada vez que un posible cliente nuevo acude a tu empresa, te preocupas hacer una buena primera impresión.
